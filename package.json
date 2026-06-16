@@ -1,0 +1,14 @@
+{
+  "name": "my-first-server",
+  "version": "1.0.0",
+  "description": "Мой первый сервер на NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "башмак матвея",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
